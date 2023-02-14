@@ -8,6 +8,7 @@
 - [x] User login
 - [x] Check which user is logged in
 - [x] Log out user
+- [x] MVC pattern project
 
 ## API made using:
 >GO
@@ -83,6 +84,8 @@ Log out user
 
 - the user is registered in a mysql database, his password is passed encrypted by bcrypt, so only the customer will have access to the password. After registration, we login the user, and in this case the JWT token is passed in the Cookie of the application, so that we have control of who is logged in, to log out the user and for more security as well (and for possible front end consumption)
 
+
+## For the project to work, don't forget to change the database settings to connect to your database :)
 
 
 
