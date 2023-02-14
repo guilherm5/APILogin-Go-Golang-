@@ -77,7 +77,7 @@ Get logged in user
 Log out user
 ```
 
-<img src="img/deslogarUsar.png" alt="">
+<img src="img/deslogarUser.png" alt="">
 
 # Explanation
 
