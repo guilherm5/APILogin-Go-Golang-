@@ -8,7 +8,6 @@
 - [x] User login
 - [x] Check which user is logged in
 - [x] Log out user
-- [x] MVC pattern project
 
 ## API made using:
 >GO
